@@ -6,9 +6,9 @@
 
 <p>The results are below depicted in the graphs:</p>
 
-<img src="./pics/running_return.png" alt="Running Return" width="400">
+<img src="./pics/running_return.png" alt="Running Return" width="500">
 
-<img src="./pics/var_5.png" alt="VAR 5" width="300">
+<img src="./pics/var_5.png" alt="VAR 5" width="500">
 
 <img src="./pics/hh_index.png" alt="HH Index" width="500">
 
