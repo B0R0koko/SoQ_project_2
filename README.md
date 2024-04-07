@@ -6,7 +6,7 @@
 
 <p>The results are below depicted in the graphs:</p>
 
-![plot width=300](./pics/running_return.png)
+![plot](./pics/running_return.png = 300)
 
 ![plot](./pics/var_5.png)
 
