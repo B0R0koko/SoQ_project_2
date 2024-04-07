@@ -6,9 +6,9 @@
 
 <p>The results are below depicted in the graphs:</p>
 
-![plot](./pics/running_return.png = 300)
+<img src="./pics/running_return.png" alt="Running Return" width="400">
 
-![plot](./pics/var_5.png)
+<img src="./pics/var_5.png" alt="VAR 5" width="300">
 
-![plot](./pics/hh_index.png)
+<img src="./pics/hh_index.png" alt="HH Index" width="500">
 
